@@ -1,0 +1,37 @@
+body {
+    background-color: hotpink;
+}
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+.father {
+    color: white;
+    width: 600px;
+    background-color: blue;
+    font-size: large;
+}
+.mother {
+    color: white;
+    width: 600px;
+    background-color: blue;
+    font-size: large;
+}
+.sister {
+    color: white;
+    width: 600px;
+    background-color: blue;
+    font-size: large;
+}
+.brother {
+    color: white;
+    width: 600px;
+    background-color: blue;
+    font-size: large;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
